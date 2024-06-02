@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋, soy Marcelo Escobar</h1>
 <h3 align="center">Persona versátil y con la capacidad de trabajar en equipo, caracterizandome por mi responsabilidad, proactividad y entusiasmo. Poseo buenos conocimientos en programación, buscando desarrollarme profesionalmente en mi pasión.</h3>
 
+<ul>
+  <li>
+    <i>holaaaa</i>
+  </li>
+</ul>
+
 - 🌱 Estoy aprendiendo **Desarrollo de videojuegos en Godot Engine**
 
 - 📫 Cómo contactarme **themarceloitinegocios@gmail.com**
