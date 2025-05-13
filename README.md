@@ -18,64 +18,64 @@
 
 <p align="left">
 
-<img src="./images/aws_logo.png" alt="AWS" width="45" height="45"/>
+<img src="./images/aws_logo.png" alt="AWS" width="42" height="42"/>
 
-<img src="./images/bootstrap_logo.png" alt="Bootstrap" width="45" height="45"/>
+<img src="./images/bootstrap_logo.png" alt="Bootstrap" width="42" height="42"/>
 
-<img src="./images/c_logo.png" alt="C" width="45" height="45"/>
+<img src="./images/c_logo.png" alt="C" width="42" height="42"/>
 
-<img src="./images/codeigniter_logo.png" alt="Codeigniter" width="45" height="45"/>
+<img src="./images/codeigniter_logo.png" alt="Codeigniter" width="42" height="42"/>
 
-<img src="./images/cpp_logo.png" alt="C++" width="45" height="45"/>
+<img src="./images/cpp_logo.png" alt="C++" width="42" height="42"/>
 
-<img src="./images/csharp_logo.png" alt="C#" width="45" height="45"/>
+<img src="./images/csharp_logo.png" alt="C#" width="42" height="42"/>
 
-<img src="./images/css_logo.png" alt="CSS" width="45" height="45"/>
+<img src="./images/css_logo.png" alt="CSS" width="42" height="42"/>
 
-<img src="./images/dart_logo.png" alt="Dart" width="45" height="45"/>
+<img src="./images/dart_logo.png" alt="Dart" width="42" height="42"/>
 
-<img src="./images/django_logo.png" alt="Django" width="45" height="45"/>
+<img src="./images/django_logo.png" alt="Django" width="42" height="42"/>
 
-<img src="./images/puntoNET_logo.png" alt=".NET" width="45" height="45"/>
+<img src="./images/puntoNET_logo.png" alt=".NET" width="42" height="42"/>
 
-<img src="./images/firebase_logo.png" alt="Firebase" width="45" height="45"/>
+<img src="./images/firebase_logo.png" alt="Firebase" width="42" height="42"/>
 
-<img src="./images/flutter_logo.png" alt="Flutter" width="45" height="45"/>
+<img src="./images/flutter_logo.png" alt="Flutter" width="42" height="42"/>
 
-<img src="./images/git_logo.png" alt="Git" width="45" height="45"/>
+<img src="./images/git_logo.png" alt="Git" width="42" height="42"/>
 
-<img src="./images/html_logo.png" alt="HTML" width="45" height="45"/>
+<img src="./images/html_logo.png" alt="HTML" width="42" height="42"/>
 
-<img src="./images/java_logo.png" alt="Java" width="45" height="45"/>
+<img src="./images/java_logo.png" alt="Java" width="42" height="42"/>
 
-<img src="./images/js_logo.png" alt="Javascript" width="45" height="45"/>
+<img src="./images/js_logo.png" alt="Javascript" width="42" height="42"/>
 
-<img src="./images/laravel_logo.png" alt="Laravel" width="45" height="45"/>
+<img src="./images/laravel_logo.png" alt="Laravel" width="42" height="42"/>
 
-<img src="./images/mariadb_logo.png" alt="MariaDB" width="45" height="45"/>
+<img src="./images/mariadb_logo.png" alt="MariaDB" width="42" height="42"/>
 
-<img src="./images/SQLserver_logo.png" alt="SQL Server" width="45" height="45"/>
+<img src="./images/SQLserver_logo.png" alt="SQL Server" width="42" height="42"/>
 
-<img src="./images/mysql_logo.png" alt="MySQL" width="45" height="45"/>
+<img src="./images/mysql_logo.png" alt="MySQL" width="42" height="42"/>
 
-<img src="./images/nodeJS_logo.png" alt="NodeJS" width="45" height="45"/>
+<img src="./images/nodeJS_logo.png" alt="NodeJS" width="42" height="42"/>
 
-<img src="./images/oracleSQL_logo.png" alt="Oracle SQl" width="45" height="45"/>
+<img src="./images/oracleSQL_logo.png" alt="Oracle SQl" width="42" height="42"/>
 
-<img src="./images/php_logo.png" alt="PHP" width="45" height="45"/>
+<img src="./images/php_logo.png" alt="PHP" width="42" height="42"/>
 
-<img src="./images/postman_logo.png" alt="Postman" width="45" height="45"/>
+<img src="./images/postman_logo.png" alt="Postman" width="42" height="42"/>
 
-<img src="./images/python_logo.png" alt="Python" width="45" height="45"/>
+<img src="./images/python_logo.png" alt="Python" width="42" height="42"/>
 
-<img src="./images/react_logo.png" alt="React" width="45" height="45"/>
+<img src="./images/react_logo.png" alt="React" width="42" height="42"/>
 
-<img src="./images/typescript_logo.png" alt="Typescript" width="45" height="45"/>
+<img src="./images/typescript_logo.png" alt="Typescript" width="42" height="42"/>
 
-<img src="./images/reverseING_logo.png" alt="Ingeniería inversa" width="45" height="45"/>
+<img src="./images/reverseING_logo.png" alt="Ingeniería inversa" width="42" height="42"/>
 
-<img src="./images/dicsord_logo.png" alt="Discord" width="45" height="45"/>
+<img src="./images/dicsord_logo.png" alt="Discord" width="42" height="42"/>
 
-<img src="./images/AI_logo.png" alt="AI" width="45" height="45"/>
+<img src="./images/AI_logo.png" alt="AI" width="42" height="42"/>
 
 </p>
