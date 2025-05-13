@@ -18,7 +18,7 @@
 
 <p align="left">
 
-<img src="./images/aws_logo.png" alt="AWS" width="40" height="40" style="object-fit: cover;"/>
+<img src="./images/aws_logo.png" alt="AWS" width="40" height="40"/>
 
 <img src="./images/bootstrap_logo.png" alt="Bootstrap" width="40" height="40"/>
 
