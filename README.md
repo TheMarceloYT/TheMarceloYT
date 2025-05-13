@@ -1,14 +1,81 @@
 <h1 align="center">Hola 👋, soy Marcelo Escobar</h1>
+
 <h3 align="center">Persona versátil y con la capacidad de trabajar en equipo, caracterizandome por mi responsabilidad, proactividad y entusiasmo. Poseo buenos conocimientos en programación, buscando desarrollarme profesionalmente en mi pasión.</h3>
 
-- 🌱 Estoy aprendiendo **Desarrollo de videojuegos en Godot Engine**
+- 🌱 Estoy aprendiendo **Desarrollo de videojuegos en Godot Engine** y **Ingeniería Inversa**
 
-- 📫 Cómo contactarme **themarceloitinegocios@gmail.com**
+- 📫 Contáctame en **themarceloitinegocios@gmail.com**
+
+- 📁​ Más detalles sobre mis habilidades en mi página (próximamente)
 
 <h3 align="left">Conecta conmigo:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/marceloescobarv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marceloescobarv/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marceloescobarv/" target="_blank"><img align="center" src="./images/linkedin_logo.png" alt="Linkedin logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/laravel.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p align="left">
+
+<img src="./images/aws_logo.png" alt="AWS" width="40" height="40"/>
+
+<img src="./images/bootstrap_logo.png" alt="Bootstrap" width="40" height="40"/>
+
+<img src="./images/c_logo.png" alt="C" width="40" height="40"/>
+
+<img src="./images/codeigniter_logo.png" alt="Codeigniter" width="40" height="40"/>
+
+<img src="./images/cpp_logo.png" alt="C++" width="40" height="40"/>
+
+<img src="./images/csharp_logo.png" alt="C#" width="40" height="40"/>
+
+<img src="./images/css_logo.png" alt="CSS" width="40" height="40"/>
+
+<img src="./images/dart_logo.png" alt="Dart" width="40" height="40"/>
+
+<img src="./images/django_logo.png" alt="Django" width="40" height="40"/>
+
+<img src="./images/puntoNET_logo.png" alt=".NET" width="40" height="40"/>
+
+<img src="./images/firebase_logo.png" alt="Firebase" width="40" height="40"/>
+
+<img src="./images/flutter_logo.png" alt="Flutter" width="40" height="40"/>
+
+<img src="./images/git_logo.png" alt="Git" width="40" height="40"/>
+
+<img src="./images/html_logo.png" alt="HTML" width="40" height="40"/>
+
+<img src="./images/java_logo.png" alt="Java" width="40" height="40"/>
+
+<img src="./images/js_logo.png" alt="Javascript" width="40" height="40"/>
+
+<img src="./images/laravel_logo.png" alt="Laravel" width="40" height="40"/>
+
+<img src="./images/mariadb_logo.png" alt="MariaDB" width="40" height="40"/>
+
+<img src="./images/SQLserver_logo.png" alt="SQL Server" width="40" height="40"/>
+
+<img src="./images/mysql_logo.png" alt="MySQL" width="40" height="40"/>
+
+<img src="./images/nodeJS_logo.png" alt="NodeJS" width="40" height="40"/>
+
+<img src="./images/oracleSQL_logo.png" alt="Oracle SQl" width="40" height="40"/>
+
+<img src="./images/php_logo.png" alt="PHP" width="40" height="40"/>
+
+<img src="./images/postman_logo.png" alt="Postman" width="40" height="40"/>
+
+<img src="./images/python_logo.png" alt="Python" width="40" height="40"/>
+
+<img src="./images/react_logo.png" alt="React" width="40" height="40"/>
+
+<img src="./images/typescript_logo.png" alt="Typescript" width="40" height="40"/>
+
+<img src="./images/reverseING_logo.png" alt="Ingeniería inversa" width="40" height="40"/>
+
+<img src="./images/dicsord_logo.png" alt="Discord" width="40" height="40"/>
+
+<img src="./images/AI_logo.png" alt="AI" width="40" height="40"/>
+
+</p>
