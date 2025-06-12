@@ -11,71 +11,73 @@
 <h3 align="left">Conecta conmigo:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/marceloescobarv/" target="_blank"><img align="center" src="./images/linkedin_logo.png" alt="Linkedin logo" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/marceloescobarv/" target="_blank"><img align="center" src="./images/linkedin_logo.webp" alt="Linkedin logo" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <p align="left">
 
-<img src="./images/aws_logo.png" alt="AWS" width="40" height="40"/>
+<img src="./images/aws_logo.webp" alt="AWS" width="40" height="40"/>
 
-<img src="./images/bootstrap_logo.png" alt="Bootstrap" width="40" height="40"/>
+<img src="./images/bootstrap_logo.webp" alt="Bootstrap" width="40" height="40"/>
 
-<img src="./images/c_logo.png" alt="C" width="40" height="40"/>
+<img src="./images/c_logo.webp" alt="C" width="40" height="40"/>
 
-<img src="./images/codeigniter_logo.png" alt="Codeigniter" width="40" height="40"/>
+<img src="./images/codeigniter_logo.webp" alt="Codeigniter" width="40" height="40"/>
 
-<img src="./images/cpp_logo.png" alt="C++" width="40" height="40"/>
+<img src="./images/cpp_logo.webp" alt="C++" width="40" height="40"/>
 
-<img src="./images/csharp_logo.png" alt="C#" width="40" height="40"/>
+<img src="./images/csharp_logo.webp" alt="C#" width="40" height="40"/>
 
-<img src="./images/css_logo.png" alt="CSS" width="40" height="40"/>
+<img src="./images/css_logo.webp" alt="CSS" width="40" height="40"/>
 
-<img src="./images/dart_logo.png" alt="Dart" width="40" height="40"/>
+<img src="./images/dart_logo.webp" alt="Dart" width="40" height="40"/>
 
-<img src="./images/django_logo.png" alt="Django" width="40" height="40"/>
+<img src="./images/django_logo.webp" alt="Django" width="40" height="40"/>
 
-<img src="./images/puntoNET_logo.png" alt=".NET" width="40" height="40"/>
+<img src="./images/puntoNET_logo.webp" alt=".NET" width="40" height="40"/>
 
-<img src="./images/firebase_logo.png" alt="Firebase" width="40" height="40"/>
+<img src="./images/firebase_logo.webp" alt="Firebase" width="40" height="40"/>
 
-<img src="./images/flutter_logo.png" alt="Flutter" width="40" height="40"/>
+<img src="./images/flutter_logo.webp" alt="Flutter" width="40" height="40"/>
 
-<img src="./images/git_logo.png" alt="Git" width="40" height="40"/>
+<img src="./images/git_logo.webp" alt="Git" width="40" height="40"/>
 
-<img src="./images/html_logo.png" alt="HTML" width="40" height="40"/>
+<img src="./images/html_logo.webp" alt="HTML" width="40" height="40"/>
 
-<img src="./images/java_logo.png" alt="Java" width="40" height="40"/>
+<img src="./images/java_logo.webp" alt="Java" width="40" height="40"/>
 
-<img src="./images/js_logo.png" alt="Javascript" width="40" height="40"/>
+<img src="./images/js_logo.webp" alt="Javascript" width="40" height="40"/>
 
-<img src="./images/laravel_logo.png" alt="Laravel" width="40" height="40"/>
+<img src="./images/laravel_logo.webp" alt="Laravel" width="40" height="40"/>
 
-<img src="./images/mariadb_logo.png" alt="MariaDB" width="40" height="40"/>
+<img src="./images/mariadb_logo.webp" alt="MariaDB" width="40" height="40"/>
 
-<img src="./images/SQLserver_logo.png" alt="SQL Server" width="40" height="40"/>
+<img src="./images/SQLserver_logo.webp" alt="SQL Server" width="40" height="40"/>
 
-<img src="./images/mysql_logo.png" alt="MySQL" width="40" height="40"/>
+<img src="./images/mysql_logo.webp" alt="MySQL" width="40" height="40"/>
 
-<img src="./images/nodeJS_logo.png" alt="NodeJS" width="40" height="40"/>
+<img src="./images/nodeJS_logo.webp" alt="NodeJS" width="40" height="40"/>
 
-<img src="./images/oracleSQL_logo.png" alt="Oracle SQl" width="40" height="40"/>
+<img src="./images/oracleSQL_logo.webp" alt="Oracle SQl" width="40" height="40"/>
 
-<img src="./images/php_logo.png" alt="PHP" width="40" height="40"/>
+<img src="./images/php_logo.webp" alt="PHP" width="40" height="40"/>
 
-<img src="./images/postman_logo.png" alt="Postman" width="40" height="40"/>
+<img src="./images/postman_logo.webp" alt="Postman" width="40" height="40"/>
 
-<img src="./images/python_logo.png" alt="Python" width="40" height="40"/>
+<img src="./images/python_logo.webp" alt="Python" width="40" height="40"/>
 
-<img src="./images/react_logo.png" alt="React" width="40" height="40"/>
+<img src="./images/react_logo.webp" alt="React" width="40" height="40"/>
 
-<img src="./images/typescript_logo.png" alt="Typescript" width="40" height="40"/>
+<img src="./images/typescript_logo.webp" alt="Typescript" width="40" height="40"/>
 
-<img src="./images/reverseING_logo.png" alt="Ingeniería inversa" width="40" height="40"/>
+<img src="./images/reverseING_logo.webp" alt="Ingeniería inversa" width="40" height="40"/>
 
-<img src="./images/dicsord_logo.png" alt="Discord" width="40" height="40"/>
+<img src="./images/discord_logo.webp" alt="Discord" width="40" height="40"/>
 
-<img src="./images/AI_logo.png" alt="AI" width="40" height="40"/>
+<img src="./images/AI_logo.webp" alt="AI" width="40" height="40"/>
+
+<img src="./images/linux_logo.webp" alt="Linux" width="40" height="40"/>
 
 </p>
