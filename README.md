@@ -80,6 +80,6 @@
 
 <img src="./images/linux_logo.webp" alt="Linux" width="40" height="40"/>
 
-<img src="./images/ghidra_logo.webp.webp" alt="Linux" width="40" height="40"/>
+<img src="./images/ghidra_logo.webp" alt="Ghidra" width="40" height="40"/>
 
 </p>
