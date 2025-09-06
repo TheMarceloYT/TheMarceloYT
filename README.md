@@ -6,7 +6,7 @@
 
 - 📫 Contáctame en **themarceloitinegocios@gmail.com**
 
-- 📁​ Más detalles sobre mis habilidades en mi página (próximamente)
+- 📁​ Más detalles sobre mis habilidades en mi <a href="https://themarceloyt.github.io/" target="_blank">página</a>
 
 <h3 align="left">Conecta conmigo:</h3>
 
