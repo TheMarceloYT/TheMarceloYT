@@ -4,7 +4,7 @@
 
 - 🌱 Estoy aprendiendo **Desarrollo de videojuegos en Godot Engine** y **Ingeniería Inversa**.
 
-- 📫 Contáctame en **themarceloitinegocios@gmail.com**.
+- 📫 Contáctame en **vazquex.oficial@gmail.com**.
 
 - 📁​ Más detalles sobre mis habilidades en mi <a href="https://themarceloyt.github.io/" target="_blank">página</a>.
 
